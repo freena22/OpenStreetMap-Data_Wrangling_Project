@@ -357,7 +357,7 @@ Thus, I updated the expected list and mapping dict to audit the street names aga
 - The ways_nodes.csv is 72.495658 MB
 ```
 ### Data Exploration With SQL
-After established and checked with the `Sunnyvlae.db`, I am using SQL queries to discover something interesting in this dataset. 
+After established and checked with the `Sunnyvlae.db`, I am using SQL queries to discover something interesting in this dataset through `query.py`.
 
 #### 1. Explore the structure of nodes_tags
 ```sh
